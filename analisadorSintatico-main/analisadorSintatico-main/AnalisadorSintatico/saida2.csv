@@ -1,0 +1,17 @@
+ID,token value,line,column,token type, ref, annotations
+1,int,1,0,INT,0,null
+2, ,1,0,ESPACO,0,null
+3,_var123,1,0,NOME,0,null
+4,=,1,0,ATRIBUICAO,0,null
+5,1050,1,0,NUMEROINT,0,null
+6,,,1,0,VIRGULA,0,null
+7,x,1,0,NOME,0,null
+8,,,1,0,VIRGULA,0,null
+9,y,1,0,NOME,0,null
+10,=,1,0,ATRIBUICAO,0,null
+11,25,1,0,NUMEROINT,0,null
+12, ,1,0,ESPACO,0,null
+13,,,1,0,VIRGULA,0,null
+14, ,1,0,ESPACO,0,null
+15,w,1,0,NOME,0,null
+16,;,1,0,PV,0,null
